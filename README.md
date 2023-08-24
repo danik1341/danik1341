@@ -80,7 +80,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/danik1341/danik1341/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/danik1341/danik1341/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
